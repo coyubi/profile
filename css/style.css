@@ -30,6 +30,9 @@ h1 {
   padding: 0 15px;
   margin: 20px 20px;
 }
+h1:link {
+  color: #000000;
+}
 .home {
   text-decoration: none;
 }
